@@ -1,0 +1,7 @@
+openai-whisper
+gradio
+transformers
+torchaudio
+langchain-community
+langchain
+openai
